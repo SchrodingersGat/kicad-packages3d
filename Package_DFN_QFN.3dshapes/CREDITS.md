@@ -99,6 +99,7 @@ QFN-44-1EP_7x7mm_Pitch0.5mm
 QFN-48-1EP_7x7mm_Pitch0.5mm 
 QFN-52-1EP_7x8mm_Pitch0.5mm 
 QFN-56-1EP_7x7mm_Pitch0.4mm 
+QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm
 UQFN-10_1.4x1.8mm_Pitch0.4mm 
 UQFN-16-1EP_3x3mm_Pitch0.5mm 
 UQFN-16-1EP_4x4mm_Pitch0.65mm 
@@ -108,3 +109,4 @@ UQFN-28-1EP_4x4mm_Pitch0.4mm
 UQFN-40-1EP_5x5mm_Pitch0.4mm 
 UQFN-48-1EP_6x6mm_Pitch0.4mm 
 VDFN-8-1EP_2x2mm_Pitch0.5mm 
+WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm
